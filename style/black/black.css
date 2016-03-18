@@ -1,0 +1,71 @@
+body {
+    background-image: url("images/background.png");
+    width: 100%;
+    height: 1000px;
+    display: block;
+}
+#head {
+    margin: 100px auto;
+    text-align: center;
+    width: 800px;
+    height: 300px;
+    background-image: url(images/header.jpg);
+}
+
+.title {
+    height: 100%;
+    margin-top: 50px;
+}
+
+h1 {
+    padding-top: 100px;
+    font: 500 66px Serif;
+    color: #FFF;
+}
+
+.about {
+    font: 300 14px Sans-Serif;
+}
+
+h5 {
+    padding: 0px 15px;
+    display: inline-block;
+    border-right: solid 1px #FFF;
+}
+
+h5:last-child {
+    border: none;
+}
+
+#content {
+    margin: -100px auto;
+    padding-top: 50px;
+    height: 600px;
+    width: 800px;
+    background-image: url(images/body.png);
+    color: #FFF;
+}
+
+h3 {
+    color: #909090;
+    font: 300 24px Serif;
+}
+
+.left {
+    width: 390px;
+    float: left;
+    text-align: right;
+}
+
+.right {
+    width: 390px;
+    float: right;
+    text-align: left;
+}
+
+.skills, .goal, .education, .about, .experience {
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 350px;
+    height: 200px;
+}

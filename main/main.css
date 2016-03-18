@@ -1,0 +1,22 @@
+body {
+    background: #EEE;
+    margin: 5% 0;
+}
+
+div {
+    margin: 5px;
+}
+#head, #content {
+    width: 70%;
+    margin: auto;
+    padding-top: 20px;
+    background: #FFF;
+}
+
+.title {
+    border: 1px solid #000;
+    width: 90%;
+    margin: auto;
+}
+
+
