@@ -49,10 +49,14 @@ div {
     padding-right: 5%;
     border-right: 1px solid #DDD;
 }
+.info h5 a {
+    color: #DDD;
+}
 #content {
     color: #FFF;
     background: url(/style/black/images/body.png);
     height: 520px;;
+    padding-top: 47px;
 }
 #content h3 {
     color: #848484;
@@ -61,8 +65,8 @@ div {
 .left, .right{
     width: 47%;
     display: table-cell;
-    padding-right: 25px;
-    padding-left: 25px;
+    padding-right: 33px;
+    padding-left: 33px;
 }
 .left {
     text-align: right;
@@ -93,5 +97,11 @@ ul {
 .skills ul {
     padding-top: 5px;
 }
+.contact {
+    text-align: right;
+    color: #323234;
+}
 
-
+.contact ul li a {
+    color: #323234;
+}
