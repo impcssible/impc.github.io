@@ -84,5 +84,14 @@ p, li {
     font: 100 14px PT Sans;
 }
 
+li {
+    padding-left: 25px;
+}
+ul {
+    padding-top: 25px;
+}
+.skills ul {
+    padding-top: 5px;
+}
 
 
