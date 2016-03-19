@@ -49,6 +49,9 @@ div {
     padding-right: 5%;
     border-right: 1px solid #DDD;
 }
+.info h5 a {
+    color: #DDD;
+}
 #content {
     color: #FFF;
     background: url(/style/black/images/body.png);
